@@ -8,6 +8,7 @@ public class AiserviceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AiserviceApplication.class, args);
+		System.out.println("Main Application");
 	}
 
 }
